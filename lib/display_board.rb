@@ -7,5 +7,5 @@ def display_board(game)
 
 end
 
-board = ["X"," "," "," "," "," "," "," "," "]
+board = ["O","O","O","O","O","O","O","O","O"]
 display_board(board)
